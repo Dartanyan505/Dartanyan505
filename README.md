@@ -1,7 +1,7 @@
 ## 💂‍♀️ Hello there, dear human friend! 💂‍♀️
 
 I'm <b>Dartanyan.</b> 
-(yes, from "The Three Musketeers".)
+(yes, from The Three Musketeers.)
 
 ![image](https://github.com/user-attachments/assets/4e0d2af3-2762-4f0d-ad09-67ab200f642d)
 
