@@ -11,7 +11,7 @@ Here are some stuff that I don't mind to share about myself:
 
 - 🔩 I am trying to get my eneneering degree! 
 - 💿 I have a little CD collection (mostly some nerd music).
-- 🐧 I use <a href="https://wiki.archlinux.org/title/Arch_is_the_best">arch</a> , btw. (Check my <a href="https://github.com/Dartanyan505/my-hyprland-config">hyprland config!</a>)
+- 🐧 I use <a href="https://wiki.archlinux.org/title/Arch_is_the_best">arch</a> , btw. (Check my <a href="https://github.com/Dartanyan505/my-hyprland-config">config!</a>)
 
 
 📧 Feel free to reach me out via sirdartanyan@proton.me
